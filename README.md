@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrendaChepkoech
-- 👀 I’m passionate about Cata Science and Technology
+- 👀 I’m passionate about Data Science and Technology
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 Reach me via email; brendachepko@gmail.com
