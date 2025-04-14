@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BrendaChepkoech
 - 👀 I’m passionate about Machine Learning and AI
-- 🌱 I’m currently learning Computer Vision and NLP
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 Reach me via email; brendachepko@gmail.com
 - Read my publications here; https://medium.com/@borbrenda
