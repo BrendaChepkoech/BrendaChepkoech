@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @BrendaChepkoech
-- 👀 I’m passionate about Machine Learning and AI
-- 💞️ I’m looking to collaborate on Data Science projects
-- 📫 Reach me via email; brendachepko@gmail.com
-- Read my publications here; https://medium.com/@borbrenda
+👋 Hi, I'm Brenda Chepkoech
+
+🎓 MSc in Artificial Intelligence | Trust & Safety Analyst | Machine Learning Enthusiast
+
+🔭 I'm passionate about Machine Learning, Natural Language Processing, Large Language Models, Trustworthy AI, and Data Science.
+
+🌱 I'm continuously learning and building projects that apply AI to solve real-world problems.
+
+🤝 I'm open to collaborating on Machine Learning, NLP, AI, and Data Science projects, as well as research initiatives.
+
+📂 Here you'll find projects ranging from deep learning and recommender systems to time series forecasting and data analytics.
+
+📫 Email: brendachepko@gmail.com
+
+📝 Read my articles: https://medium.com/@borbrenda
+
+🔗 Let's connect and build impactful AI solutions together!
 
 <!---
 BrendaChepkoech/BrendaChepkoech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
